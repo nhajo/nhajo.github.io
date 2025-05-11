@@ -1,0 +1,30 @@
+.recipe{
+  background-color: #f0eae4;
+  color:black;
+  font:18px Verdana,Arial,sans-serif;
+  margin:40px;
+  padding:10px;
+  text-align: center;
+}
+.ingredients{
+  background-color: #f0eae4;
+  color:black;
+  font:18px Verdana,Arial,sans-serif;
+  margin:0px;
+  padding:1px;
+  text-align: left !important;
+}
+
+
+.recipe .ingredients{
+  text-align: left !important;
+}
+
+
+.recipe .ingredients {
+  text-align: left !important;
+  display: block;
+}
+.recipe .ingredients * {
+  text-align: left !important;
+}
